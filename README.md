@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python, javascript, sql
 - 💞️ I’m looking to collaborate on any Project
-- 😄 Pronouns: Giga Man
+- 😄 Pronouns: Big Man
 - ⚡ Fun fact: I love when my muscles getting bigger 
 
 <!---
